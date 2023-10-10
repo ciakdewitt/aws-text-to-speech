@@ -37,8 +37,6 @@ response = client.synthesize_speech(<br>
 <br>This is the syntax where we actually request Amazon Polly to synthesize our speech and there are the information that we need provide.<br>
 'Synthesize' is the process of artificially generating human speech using a computer or other device.<br>
 <br>Below you can find the snippet of the final form of the getText function we created to request AWS Polly 'synthesize_speech()'
-
-<video src="video/T2S Converter - Using Amazon Polly 2023-10-10 17-25-40.mp4" alt="VideoSTTC">
 <br><img src="pictures/Polly_2.png" alt="Polly_2BotoCode">
 <br>The result of our project is a fully speech-to-text converter application. 
 <br>As we can see in the snippet we access to the result through our media player.
