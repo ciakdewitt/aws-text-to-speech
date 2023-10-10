@@ -14,8 +14,6 @@
 <br><img src="pictures/Polly_3.png" alt="Polly_3GUI">
 </p>
 <h3>AWS Boto3 SDK</h3>
-<p>Before dive
-<br>
 In this project we will be using the 'synthesize_speech()' method. 
 <br>
 response = client.synthesize_speech(<br>
@@ -35,5 +33,6 @@ response = client.synthesize_speech(<br>
 )<br>
 <br>This is the syntax where we actually request Amazon Polly to synthesize our speech and there are the information that we need provide.<br>
 'Synthesize' is the process of artificially generating human speech using a computer or other device.<br>
+<br>Below you can find the snippet of the final form of the getText function we created to request AWS Polly 'synthesize_speech()'
 <br><img src="pictures/Polly_2.png" alt="Polly_2BotoCode">
 </p>
