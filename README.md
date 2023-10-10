@@ -43,3 +43,7 @@ response = client.synthesize_speech(<br>
 <br>The result of our project is a fully speech-to-text converter application. 
 <br>As we can see in the snippet we access to the result through our media player.
 </p>
+
+https://github.com/ciakdewitt/aws-text-to-speech/assets/73496617/fd4984e2-406d-4c12-bb1e-213dc4fbab8f
+
+
