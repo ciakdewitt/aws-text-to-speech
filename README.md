@@ -33,6 +33,7 @@ response = client.synthesize_speech(<br>
     TextType='ssml'|'text',<br>
     VoiceId='Aditi'|'Amy'|'Astrid'|'Bianca'...<br>
 )<br>
-<br>This is the syntax where we actually request Amazon Polly to synthesize our speech and there are the information that we need provide.
+<br>This is the syntax where we actually request Amazon Polly to synthesize our speech and there are the information that we need provide.<br>
+    'Synthesize' is the process of artificially generating human speech using a computer or other device.
 <img src="pictures/Polly_2.png" alt="Polly_2BotoCode">
 </p>
