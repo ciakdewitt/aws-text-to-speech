@@ -39,5 +39,5 @@ response = client.synthesize_speech(<br>
 <br>Below you can find the snippet of the final form of the getText function we created to request AWS Polly 'synthesize_speech()'
 <br><img src="pictures/Polly_2.png" alt="Polly_2BotoCode">
 <br>The result of our project is a fully speech-to-text converter application. 
-<br>As we can see in the snippet we access to the result to our media player.
+<br>As we can see in the snippet we access to the result through our media player.
 </p>
