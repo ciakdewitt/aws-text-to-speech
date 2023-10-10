@@ -1,4 +1,4 @@
-# aws-text-to-speech
+# AWS Text To Speech
 
 <h2>Text to Speech using AWS Polly and Boto3</h2>
 
