@@ -12,6 +12,8 @@
 <br>I wont go through the full code explanation, instead I will provide the code screen with all the comments in place.<br>
 <br>In the picture below it is shown the GUI design using Tkinter
 <br><img src="pictures/Polly_3.png" alt="Polly_3GUI">
+<br>And this is the result of our simple GUI
+<br><img src="pictures/Polly_4.png" alt="Polly_4GUI">
 </p>
 <h3>AWS Boto3 SDK</h3>
 In this project we will be using the 'synthesize_speech()' method. 
