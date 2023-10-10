@@ -12,3 +12,8 @@
 <br>I wont go through the full code explanation, instead I will provide the code screen with all the comments in place.<br>
 <br><img src="pictures/Polly_2.png" alt="Polly_1">
 </p>
+<h3>AWS Boto3 SDK</h3>
+<p>Before dive
+<br>
+In this project we will be using the 'synthesize_speech()' method. 
+</p>
