@@ -9,6 +9,6 @@
 <br>Amazon Polly supports multiple languages and includes a variety of lifelike voices, so developers can build speech-enabled applications that work in multiple locations and use the ideal voice for their customers.
 <br>In addition to Standard TTS voices, Amazon Polly offers Neural Text-to-Speech(NTTS) voices that deliver advanced improvements in speech quality.<br>
 <br>In this project we wont use the AWS Console, instead we will create our own GUI using Python tkinter and we will access the Polly service thanks to python boto3 SDK.<br>
-<br>I wont go through the full code explanation, instead I will provide the code screen with all the comments in place.
+<br>I wont go through the full code explanation, instead I will provide the code screen with all the comments in place.<br>
 <br><img src="pictures/Polly_1.png" alt="Polly_1">
 </p>
