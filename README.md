@@ -19,20 +19,20 @@
 In this project we will be using the 'synthesize_speech()' method. 
 <br>
 response = client.synthesize_speech(<br>
-    Engine='standard'|'neural',
-    LanguageCode='arb'|'cmn-CN'|'cy-GB'|'da-DK'|'de-DE'...,
-    LexiconNames=[
-        'string',
-    ],
-    OutputFormat='json'|'mp3'|'ogg_vorbis'|'pcm',
-    SampleRate='string',
-    SpeechMarkTypes=[
-        'sentence'|'ssml'|'viseme'|'word',
-    ],
-    Text='string',
-    TextType='ssml'|'text',
-    VoiceId='Aditi'|'Amy'|'Astrid'|'Bianca'...
-)
+    Engine='standard'|'neural',<br>
+    LanguageCode='arb'|'cmn-CN'|'cy-GB'|'da-DK'|'de-DE'...,<br>
+    LexiconNames=[<br>
+        'string',<br>
+    ],<br>
+    OutputFormat='json'|'mp3'|'ogg_vorbis'|'pcm',<br>
+    SampleRate='string',<br>
+    SpeechMarkTypes=[<br>
+        'sentence'|'ssml'|'viseme'|'word',<br>
+    ],<br>
+    Text='string',<br>
+    TextType='ssml'|'text',<br>
+    VoiceId='Aditi'|'Amy'|'Astrid'|'Bianca'...<br>
+)<br>
 <br>This is the syntax where we actually request Amazon Polly to synthesize our speech and there are the information that we need provide.
 <img src="pictures/Polly_2.png" alt="Polly_2BotoCode">
 </p>
