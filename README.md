@@ -18,7 +18,7 @@
 <br>
 In this project we will be using the 'synthesize_speech()' method. 
 <br>
-response = client.synthesize_speech(
+response = client.synthesize_speech(<br>
     Engine='standard'|'neural',
     LanguageCode='arb'|'cmn-CN'|'cy-GB'|'da-DK'|'de-DE'...,
     LexiconNames=[
