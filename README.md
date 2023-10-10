@@ -10,5 +10,5 @@
 <br>In addition to Standard TTS voices, Amazon Polly offers Neural Text-to-Speech(NTTS) voices that deliver advanced improvements in speech quality.<br>
 <br>In this project we wont use the AWS Console, instead we will create our own GUI using Python tkinter and we will access the Polly service thanks to python boto3 SDK.<br>
 <br>I wont go through the full code explanation, instead I will provide the code screen with all the comments in place.
-
+<br><img src="pictures/Polly_1.png" alt="Polly_1">
 </p>
