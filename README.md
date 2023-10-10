@@ -11,8 +11,8 @@
 <br>In this project we wont use the AWS Console, instead we will create our own GUI using Python tkinter and we will access the Polly service thanks to python boto3 SDK.<br>
 <br>I wont go through the full code explanation, instead I will provide the code screen with all the comments in place.<br>
 <br>In the picture below it is shown the snippet of GUIs design using Tkinter
-<br><img src="pictures/Polly_3.png" alt="Polly_3GUI">
-<br>And this is the result of our simple GUI<br>
+<br><img src="pictures/Polly_3.png" alt="Polly_3GUI"><br>
+<br>And this is the result of our simple GUI
 <br><img src="pictures/Polly_4.png" alt="Polly_4GUI">
 </p>
 <h3>AWS Boto3 SDK</h3>
