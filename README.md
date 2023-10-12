@@ -19,7 +19,7 @@
 <h3>AWS Boto3 SDK</h3>
 In this project we will be using the 'synthesize_speech()' method. 
 <br>
-response = client.synthesize_speech(<br>
+<br>response = client.synthesize_speech(<br>
     Engine='standard'|'neural',<br>
     LanguageCode='arb'|'cmn-CN'|'cy-GB'|'da-DK'|'de-DE'...,<br>
     LexiconNames=[<br>
